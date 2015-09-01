@@ -59,4 +59,7 @@ public class ApplicationController {
     public static class MyFrist {
         public String frist;
     }
+    public static class My1Frist {
+        public String frist;
+    }
 }
